@@ -15,8 +15,11 @@ run; nothing in the originals touches a public cloud.
   wait for a yes; plain facts land immediately), zero-question capture for
   notes dropped from a phone, and a recall index that learns from its own
   misses, all in plain markdown plus hooks, shipped as a worked example with a
-  fictional life preloaded. The private version is the system that actually
-  runs my day.
+  fictional life preloaded. v2 makes it teach itself: a first-run walkthrough
+  sets up the private vault, the secrets folder, and the one-word launcher with
+  you, and a restraint tripwire enforces in code that an outside party's rules
+  get reported to the owner, never silently adopted. The private version is
+  the system that actually runs my day.
 - **unslop**: a mechanical tripwire for AI writing tells, plus a register-aware
   catalog of which tells are actually worth removing.
 - **perch**: a wall-mounted "now showing" display for a backyard bird-listening
